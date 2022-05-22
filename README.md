@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/komal-jain-933544237/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BRS3jJWM7TWqtLR4xgahwQQ%3D%3D" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/shashwatwankhed1" title="HackerRank Profile"><img width="22" src="hackerrank.png"> HackerRank</a></code>
 <!--   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code> -->
-  <code><a href="https://www.instagram.com/shashwatwankhedekar/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/komal_280304/" title="Instagram Profile"><img width="22" src="instagram.svg"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
