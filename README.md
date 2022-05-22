@@ -29,7 +29,7 @@
   <!-- <br>
   💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a> -->
   <br>
-  📫 How to reach me: <a href="mailto: shashwatwankhedekar@gmail.com">shashwatwankhedekar@gmail.com</a>
+  📫 How to reach me: <a href="mailto: komal.jain2k04@gmail.com">shashwatwankhedekar@gmail.com</a>
 </p>
 
 <hr>
