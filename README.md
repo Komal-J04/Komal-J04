@@ -14,14 +14,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Shashwat Wankhedekar, Tech freak
+  Hi, I'm Komal Jain
   <br>
   <br>
-  🔬 I'm currently studying for a Bachelor's degree in VIT-Vellore, Computer Science Department
+  🔬 I'm currently pursuing a Bachelor's degree in VIT-Vellore, Computer Science Department
   <!-- <br>
   🎓 I graduated from Black Sea Technical University Computer Engineering Department -->
   <br>
-  🎓 I graduated from Modern Delhi Public School
+  🎓 An ex-Timpanian
   <br>
   💻 I love writing code and learn anythings about it
   <br>
