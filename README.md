@@ -23,7 +23,7 @@
   <br>
   🎓 An ex-Timpanian
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love coding and learn new things about it
   <br>
   📚 I’m currently learning BlockChain Dev
   <!-- <br>
