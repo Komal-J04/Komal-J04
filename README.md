@@ -1,4 +1,3 @@
-[![@komalj04's Holopin board](https://holopin.me/komalj04)](https://holopin.io/@komalj04)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&color=2B93F7&background=68FF1900&width=404&lines=Hello+There+!+%F0%9F%91%8B;This+is+Komal+Jain...;Nice+to+see+you+here+!&center=true&size=23">
@@ -64,6 +63,15 @@
   <code><img title="npm" height="25" src="images/npm.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code> -->
   <!-- <code><img title="Flask" height="25" src="images/flask.png"></code> -->
+</p>
+<hr>
+
+<hr>
+<h2 align="center">🔥 Badges 🔥</h2>
+<br>
+<p align="center">
+
+   [![@komalj04's Holopin board](https://holopin.me/komalj04)](https://holopin.io/@komalj04)
 </p>
 <hr>
 
