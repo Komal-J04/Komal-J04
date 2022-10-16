@@ -31,7 +31,7 @@
 
 <hr>
 <h2 align="center">🔥 Languages & Tools 🔥</h2>
-<br>
+
 <p align="center">
   <code><img title="C" height="25" src="c.svg"></code>
   <code><img title="C++" height="25" src="cpp.svg"></code>
@@ -66,7 +66,6 @@
 </p>
 <hr>
 
-<hr>
 <h2 align="center">🔥 Badges 🔥</h2>
 <br>
 <p align="center">
